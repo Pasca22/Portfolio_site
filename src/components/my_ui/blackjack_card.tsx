@@ -40,7 +40,7 @@ function BlackJackCard() {
                 <div className="p-1">
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
-                      <img src="src/assets/blackjack/intro1.jpg"></img>
+                      <img src="/assets/blackjack/intro1.jpg"></img>
                     </CardContent>
                     <CardDescription className="pb-3">
                       When you will open the game, this will be the first window
@@ -53,7 +53,7 @@ function BlackJackCard() {
                 <div className="p-1">
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
-                      <img src="src/assets/blackjack/intro2.jpg"></img>
+                      <img src="/assets/blackjack/intro2.jpg"></img>
                     </CardContent>
                     <CardDescription className="pb-3">
                       After you introduced the amount of money you want to play,
@@ -68,7 +68,7 @@ function BlackJackCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/blackjack/bet.jpg"
+                        src="/assets/blackjack/bet.jpg"
                         className="w-8/12"
                       ></img>
                     </CardContent>
@@ -85,7 +85,7 @@ function BlackJackCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/blackjack/start.jpg"
+                        src="/assets/blackjack/start.jpg"
                         className="w-8/12"
                       ></img>
                     </CardContent>
@@ -101,7 +101,7 @@ function BlackJackCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/blackjack/main.jpg"
+                        src="/assets/blackjack/main.JPG"
                         className="w-8/12"
                       ></img>
                     </CardContent>
@@ -117,7 +117,7 @@ function BlackJackCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/blackjack/win.jpg"
+                        src="/assets/blackjack/win.JPG"
                         className="w-8/12"
                       ></img>
                     </CardContent>
@@ -133,7 +133,7 @@ function BlackJackCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/blackjack/lose.jpg"
+                        src="/assets/blackjack/lose.JPG"
                         className="w-8/12"
                       ></img>
                     </CardContent>

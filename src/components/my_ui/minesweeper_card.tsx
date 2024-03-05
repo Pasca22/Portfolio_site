@@ -40,7 +40,7 @@ function MinesweeperCard() {
                 <div className="p-1">
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
-                      <img src="src/assets/minesweeper/intro.jpg"></img>
+                      <img src="/assets/minesweeper/intro.jpg"></img>
                     </CardContent>
                     <CardDescription className="pb-3">
                       First option: Just press "START" and the game will start
@@ -53,7 +53,7 @@ function MinesweeperCard() {
                 <div className="p-1">
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
-                      <img src="src/assets/minesweeper/intro_medium.jpg"></img>
+                      <img src="/assets/minesweeper/intro_medium.jpg"></img>
                     </CardContent>
                     <CardDescription className="pb-3">
                       Second option: Select one of the three difficulties: Easy,
@@ -66,7 +66,7 @@ function MinesweeperCard() {
                 <div className="p-1">
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
-                      <img src="src/assets/minesweeper/intro_custom.jpg"></img>
+                      <img src="/assets/minesweeper/intro_custom.jpg"></img>
                     </CardContent>
                     <CardDescription className="pb-3">
                       Third option: Introduce your own difficulty and start your
@@ -80,7 +80,7 @@ function MinesweeperCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/minesweeper/main.jpg"
+                        src="/assets/minesweeper/main.jpg"
                         className="max-w-64"
                       ></img>
                     </CardContent>
@@ -96,7 +96,7 @@ function MinesweeperCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/minesweeper/midgame.jpg"
+                        src="/assets/minesweeper/midgame.jpg"
                         className="max-w-64"
                       ></img>
                     </CardContent>
@@ -113,7 +113,7 @@ function MinesweeperCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/minesweeper/win.jpg"
+                        src="/assets/minesweeper/win.JPG"
                         className="max-w-64"
                       ></img>
                     </CardContent>
@@ -129,7 +129,7 @@ function MinesweeperCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/minesweeper/lose.jpg"
+                        src="/assets/minesweeper/lose.JPG"
                         className="max-w-64"
                       ></img>
                     </CardContent>

@@ -27,12 +27,12 @@ export default function Home(): JSX.Element {
 
           <div className="flex justify-around">
             <img
-              src="src/assets/home_pics/seniori-individual.jpeg"
+              src="/assets/home_pics/seniori-individual.jpeg"
               alt="Alex"
               className="mt-20 w-5/12 rounded-lg ease-in duration-300"
             />
             <img
-              src="src/assets/home_pics/u13-individual.JPG"
+              src="/assets/home_pics/u13-individual.JPG"
               alt="Alex"
               className="mt-20 w-1/3 rounded-lg"
             />
@@ -49,7 +49,7 @@ export default function Home(): JSX.Element {
 
           <div className="flex justify-around">
             <img
-              src="src/assets/home_pics/u13-grup.JPG"
+              src="/assets/home_pics/u13-grup.JPG"
               alt="Alex"
               className="mt-20 w-2/3 rounded-lg"
             />
@@ -71,7 +71,7 @@ export default function Home(): JSX.Element {
 
           <div className="flex justify-around">
             <img
-              src="src/assets/home_pics/u16.jpeg"
+              src="/assets/home_pics/u16.jpeg"
               alt="Alex"
               className="mt-20 w-2/3 rounded-lg"
             />
@@ -94,7 +94,7 @@ export default function Home(): JSX.Element {
 
           <div className="flex justify-around">
             <img
-              src="src/assets/home_pics/seniori-grup.jpeg"
+              src="/assets/home_pics/seniori-grup.jpeg"
               alt="Alex"
               className="mt-20 w-2/3 rounded-lg"
             />

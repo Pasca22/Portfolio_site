@@ -40,7 +40,7 @@ function F1MinigameCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/f1-minigame/intro.jpg"
+                        src="/assets/f1-minigame/intro.jpg"
                         className="w-8/12"
                       ></img>
                     </CardContent>
@@ -56,7 +56,7 @@ function F1MinigameCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/f1-minigame/select_driver.jpg"
+                        src="/assets/f1-minigame/select_driver.jpg"
                         className="w-8/12"
                       ></img>
                     </CardContent>
@@ -72,7 +72,7 @@ function F1MinigameCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/f1-minigame/select_track.jpg"
+                        src="/assets/f1-minigame/select_track.jpg"
                         className="w-8/12"
                       ></img>
                     </CardContent>
@@ -89,7 +89,7 @@ function F1MinigameCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/f1-minigame/start.jpg"
+                        src="/assets/f1-minigame/start.JPG"
                         className="max-w-96"
                       ></img>
                     </CardContent>
@@ -106,7 +106,7 @@ function F1MinigameCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/f1-minigame/main.jpg"
+                        src="/assets/f1-minigame/main.JPG"
                         className="max-w-96"
                       ></img>
                     </CardContent>
@@ -123,7 +123,7 @@ function F1MinigameCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/f1-minigame/win.jpg"
+                        src="/assets/f1-minigame/win.JPG"
                         className="max-w-96"
                       ></img>
                     </CardContent>
@@ -139,7 +139,7 @@ function F1MinigameCard() {
                   <Card className="border-2">
                     <CardContent className="flex items-center justify-center p-6">
                       <img
-                        src="src/assets/f1-minigame/crash.jpg"
+                        src="/assets/f1-minigame/crash.JPG"
                         className="max-w-96"
                       ></img>
                     </CardContent>

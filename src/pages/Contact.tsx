@@ -42,7 +42,7 @@ export default function Contact(): JSX.Element {
               </CardHeader>
               <CardContent className="flex items-center justify-center">
                 <img
-                  src="src/assets/contact_page/github.png"
+                  src="/assets/contact_page/github.png"
                   alt="GitHub"
                   className="h-24"
                 />
