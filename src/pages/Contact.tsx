@@ -16,7 +16,10 @@ export default function Contact(): JSX.Element {
       </Fade>
       <div className="grid grid-cols-2 gap-44 place-content-center h-screen">
         <Fade triggerOnce damping={0} direction="left">
-          <a href="https://www.linkedin.com/in/alex-pasca-3422b522b/">
+          <a
+            href="https://www.linkedin.com/in/alex-pasca-3422b522b/"
+            target="_blank"
+          >
             <Card>
               <CardHeader>
                 <CardTitle>LinkedIn</CardTitle>
@@ -34,7 +37,7 @@ export default function Contact(): JSX.Element {
         </Fade>
 
         <Fade triggerOnce damping={0} direction="right">
-          <a href="https://github.com/Pasca22">
+          <a href="https://github.com/Pasca22" target="_blank">
             <Card>
               <CardHeader>
                 <CardTitle>GitHub</CardTitle>
@@ -52,7 +55,7 @@ export default function Contact(): JSX.Element {
         </Fade>
 
         <Fade triggerOnce damping={0} direction="left">
-          <a href="https://mail.google.com/">
+          <a href="https://mail.google.com/" target="_blank">
             <Card>
               <CardHeader>
                 <CardTitle>Mail</CardTitle>
@@ -70,7 +73,7 @@ export default function Contact(): JSX.Element {
         </Fade>
 
         <Fade triggerOnce damping={0} direction="right">
-          <a href="https://web.whatsapp.com/">
+          <a href="https://web.whatsapp.com/" target="_blank">
             <Card>
               <CardHeader>
                 <CardTitle>Phone</CardTitle>
